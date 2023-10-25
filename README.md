@@ -5,7 +5,7 @@ Intermediário - Semântica e acessibilidade. 💜
 
 Nesse desafio, Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, ao contrário do que foi feito em aula, ele não apresenta a semântica correta.
 
-Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... **👀**
+Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... 
 
 Topa encarar esse desafio e deixar o site mais acessível? 💜
 
